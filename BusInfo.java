@@ -38,7 +38,7 @@ public void setCapacity(int capacity) {
 public BusInfo(int no,boolean ac,int  capacity) {
 	this.ac= ac;
 	this.busNo=no;
-	this.capacity=capacity;
+	
 	
 	
 	  
