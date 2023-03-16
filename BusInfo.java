@@ -28,6 +28,12 @@ public int getCapacity() {
 public void setCapacity(int capacity) {
 	this.capacity = capacity;
 }
+	public int getName(){
+		return Name;
+	}
+	public void setName(int Name){
+		this.Name = Name;
+	}
 
 public BusInfo(int no,boolean ac,int  capacity) {
 	this.ac= ac;
