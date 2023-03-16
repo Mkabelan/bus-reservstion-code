@@ -3,7 +3,7 @@ package org.zoho;
 public class BusInfo {
   private int busNo;
   private boolean ac;
-  
+  private int capacity;
   
  public int getBusNo() {
 	return busNo;
